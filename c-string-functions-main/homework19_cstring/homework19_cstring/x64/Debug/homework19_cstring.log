@@ -1,0 +1,5 @@
+﻿  homework19_cstring.cpp
+C:\Users\vlad1\OneDrive\Рабочий стол\homework19_cstring\homework19_cstring\homework19_cstring.cpp(150,15): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\vlad1\OneDrive\Рабочий стол\homework19_cstring\homework19_cstring\homework19_cstring.cpp(150,25): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\vlad1\OneDrive\Рабочий стол\homework19_cstring\homework19_cstring\homework19_cstring.cpp(150,15): warning C4309: 'initializing': truncation of constant value
+  homework19_cstring.vcxproj -> C:\Users\vlad1\OneDrive\Рабочий стол\homework19_cstring\x64\Debug\homework19_cstring.exe
