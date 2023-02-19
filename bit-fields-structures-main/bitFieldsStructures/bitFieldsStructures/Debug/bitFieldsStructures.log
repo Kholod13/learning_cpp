@@ -1,0 +1,5 @@
+﻿  bitFieldsStructures.cpp
+C:\Users\mka.itstep.000.001\Desktop\bitFieldsStructures\bitFieldsStructures\bitFieldsStructures.cpp(24,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+C:\Users\mka.itstep.000.001\Desktop\bitFieldsStructures\bitFieldsStructures\bitFieldsStructures.cpp(24,36): warning C4305: 'initializing': truncation from 'int' to 'char'
+C:\Users\mka.itstep.000.001\Desktop\bitFieldsStructures\bitFieldsStructures\bitFieldsStructures.cpp(24,19): warning C4309: 'initializing': truncation of constant value
+  bitFieldsStructures.vcxproj -> C:\Users\mka.itstep.000.001\Desktop\bitFieldsStructures\Debug\bitFieldsStructures.exe
