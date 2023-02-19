@@ -1,0 +1,6 @@
+﻿  oop_overload_time.cpp
+C:\Users\vlad1\OneDrive\Рабочий стол\oop_overload_time\oop_overload_time\oop_overload_time.cpp(80,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vlad1\OneDrive\Рабочий стол\oop_overload_time\oop_overload_time\oop_overload_time.cpp(83,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vlad1\OneDrive\Рабочий стол\oop_overload_time\oop_overload_time\oop_overload_time.cpp(86,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vlad1\OneDrive\Рабочий стол\oop_overload_time\oop_overload_time\oop_overload_time.cpp(90,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  oop_overload_time.vcxproj -> C:\Users\vlad1\OneDrive\Рабочий стол\oop_overload_time\x64\Debug\oop_overload_time.exe
