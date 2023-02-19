@@ -1,0 +1,3 @@
+﻿  oop_abstract_tank.cpp
+C:\Users\vlad1\OneDrive\Рабочий стол\oop_abstract_tank\oop_abstract_tank\oop_abstract_tank.cpp(95): warning C4715: 'Tank::Damage': not all control paths return a value
+  oop_abstract_tank.vcxproj -> C:\Users\vlad1\OneDrive\Рабочий стол\oop_abstract_tank\x64\Debug\oop_abstract_tank.exe
