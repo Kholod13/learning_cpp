@@ -1,0 +1,5 @@
+﻿  oop_comp_car.cpp
+D:\OneDrive\Рабочий стол\oop_comp_car\oop_comp_car\oop_comp_car.cpp(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\OneDrive\Рабочий стол\oop_comp_car\oop_comp_car\oop_comp_car.cpp(120,37): error C2248: 'Engine::power': cannot access private member declared in class 'Engine'
+D:\OneDrive\Рабочий стол\oop_comp_car\oop_comp_car\oop_comp_car.cpp(45,6): message : see declaration of 'Engine::power'
+D:\OneDrive\Рабочий стол\oop_comp_car\oop_comp_car\oop_comp_car.cpp(42,7): message : see declaration of 'Engine'
