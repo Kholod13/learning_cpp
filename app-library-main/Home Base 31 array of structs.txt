@@ -1,0 +1,85 @@
+﻿Розробіть програму «Бібліотека». Створіть
+структуру «Книга» (назва, автор, видавництво, жанр).
+Створіть масив з 10 книг. Реалізуйте для нього такі можливості:
+■ Редагувати книгу;
+Друк усіх книг;
+■ Пошук книг за автором;
+■ Пошук книги за назвою;
+■ Сортування масиву за назвою книг;
+■ Сортування масиву за автором;
+■ Сортування масиву за видавництвом
+■ Додавання до масиву нової  книги
+■ Вилучення із  масиву  книги по  автору  та(чи) назві книги
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 Fluent Python
+by Luciano Ramalho
+Publisher(s): O'Reilly Media, Inc.
+programming
+
+1 Eloquent JavaScript
+by Marijn Haverbeke
+Publisher(s): O'Reilly Media, Inc.
+programming
+
+2 Effective Modern C++
+by Scott Meyers
+Publisher(s): O'Reilly Media, Inc.
+programming
+
+3 Rich Dad Poor Dad
+by Robert T. Kiyosaki
+Publisher(s): Amazon book clubs
+business
+
+4 Never Split the Difference
+by Chris Voss
+Publisher(s): Amazon book clubs
+business
+
+5 The 48 Laws of Power
+by Robert Greene
+Publisher(s): Amazon book clubs
+business
+
+6 Fairy Tale
+by Stephen King
+Publisher(s): Simon & Schuster, Inc
+horror
+
+7 The Mist
+by Stephen King
+Publisher(s): Scribner
+horror
+
+8 House of Leaves
+by Mark Z. Danielewski
+Publisher(s): Pantheon
+horror
+
+9 Secluded Cabin Sleeps Six
+by Lisa Unger
+Publisher(s): Park Row
+horror
