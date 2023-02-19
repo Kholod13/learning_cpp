@@ -1,0 +1,3 @@
+﻿  funcs.cpp
+C:\Users\vlad1\OneDrive\Рабочий стол\game_seawar\game_seawar\funcs.cpp(403): warning C4715: 'checkStep': not all control paths return a value
+  game_seawar.vcxproj -> C:\Users\vlad1\OneDrive\Рабочий стол\game_seawar\x64\Debug\game_seawar.exe
