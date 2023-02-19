@@ -1,0 +1,6 @@
+
+_______ WEAPON ________
+Shot range: 909
+Caliber bullets: 5
+Number bullets: 32
+Max number bullets in magazine: 32

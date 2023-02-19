@@ -1,0 +1,4 @@
+﻿  opp_weapon.cpp
+C:\intel\oop_weapon\opp_weapon\opp_weapon\opp_weapon.cpp(19,40): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\intel\oop_weapon\opp_weapon\opp_weapon\opp_weapon.cpp(73,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  opp_weapon.vcxproj -> C:\intel\oop_weapon\opp_weapon\x64\Debug\opp_weapon.exe
