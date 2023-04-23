@@ -1,0 +1,10 @@
+﻿  oop_exceptions_users.cpp
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(74,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(98,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(127,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(147,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(358,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(363,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(374,18): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\OneDrive\Рабочий стол\oop_exceptions_users\oop_exceptions_users\oop_exceptions_users.cpp(312): warning C4715: 'MyDB::find': not all control paths return a value
+  oop_exceptions_users.vcxproj -> D:\OneDrive\Рабочий стол\oop_exceptions_users\x64\Debug\oop_exceptions_users.exe
