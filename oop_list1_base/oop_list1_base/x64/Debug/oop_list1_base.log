@@ -1,0 +1,3 @@
+﻿  oop_list1_base.cpp
+D:\OneDrive\Рабочий стол\oop_list1_base\oop_list1_base\oop_list1_base.cpp(34,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  oop_list1_base.vcxproj -> D:\OneDrive\Рабочий стол\oop_list1_base\x64\Debug\oop_list1_base.exe
