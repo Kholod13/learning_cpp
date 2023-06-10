@@ -1,0 +1,29 @@
+﻿  oop_list2_vector.cpp
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(28,1): error C2523: 'List<T>::~LinkedList': destructor tag mismatch
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(185,2): message : see reference to class template instantiation 'List<T>' being compiled
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,3): error C2065: 'LinkedList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,18): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,32): error C2065: 'LinkedList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,32): error C2760: syntax error: 'LinkedList' was unexpected here; expected 'type specifier'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,42): error C3878: syntax error: unexpected token '<' following 'expression'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,42): message : error recovery skipped: '< identifier >'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(122,4): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(125,16): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(126,16): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(28,1): error C2523: 'List<short>::~LinkedList': destructor tag mismatch
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\oop_list2_vector.cpp(8,17): message : see reference to class template instantiation 'List<short>' being compiled
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(28,1): error C2523: 'List<Point>::~LinkedList': destructor tag mismatch
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\oop_list2_vector.cpp(23,17): message : see reference to class template instantiation 'List<Point>' being compiled
+  Point.cpp
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(28,1): error C2523: 'List<T>::~LinkedList': destructor tag mismatch
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(185,2): message : see reference to class template instantiation 'List<T>' being compiled
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,3): error C2065: 'LinkedList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,18): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,32): error C2065: 'LinkedList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,32): error C2760: syntax error: 'LinkedList' was unexpected here; expected 'type specifier'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,42): error C3878: syntax error: unexpected token '<' following 'expression'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(118,42): message : error recovery skipped: '< identifier >'
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(122,4): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(125,16): error C2065: 'newList': undeclared identifier
+D:\OneDrive\Рабочий стол\oop_list2_vector\oop_list2_vector\List.h(126,16): error C2065: 'newList': undeclared identifier
+  Generating Code...
